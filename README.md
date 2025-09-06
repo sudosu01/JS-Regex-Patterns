@@ -13,5 +13,6 @@ Useful for building linters, scanners, CI/CD checkers, or for educational purpos
 #Example
 {
   "AWS Key": /AKIA[0-9A-Z]{16}/i,
+
   "JWT": /ey[A-Za-z0-9\-_=]+\.[A-Za-z0-9\-_=]+\.[A-Za-z0-9\-_.+/=]*/i
-};
+}
